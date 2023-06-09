@@ -23,11 +23,15 @@
 ## Como usar
  1. Certifique-se de ter o Python 3.x instalado em seu sistema.
  2. Instale as bibliotecas necessárias executando o seguinte comando no terminal:
+
  ```pip install requests beautifulsoup4 selenium openpyxl```
+
  3. Faça o download ou clone este repositório.
  4. Navegue até o diretório onde você salvou os arquivos do repositório.
  5. Execute o código usando o seguinte comando:
+
  ```python Import dolar value.py```
+
  6. Verifique se o arquivo "cotacao_dolar.xlsx" foi criado ou atualizado com os dados da cotação do dólar.
 
 ## Notas
@@ -63,11 +67,15 @@
 ## How to Use
  1. Make sure you have Python 3.x installed on your system.
  2. Install the necessary libraries by running the following command in the terminal:
+
   ```pip install requests beautifulsoup4 selenium openpyxl```
+
  3. Download or clone this repository.
  4. Navigate to the directory where you saved the repository files.
  5. Run the code using the following command:
+
  ```python Import dolar value.py```
+ 
  6. Check if the "cotacao_dolar.xlsx" file has been created or updated with the dollar exchange rate data.
 
 ## Notes
