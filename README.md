@@ -33,8 +33,8 @@
 ## Notas
  - Este código usa o Selenium para automatizar o navegador Chrome. Certifique-se de ter o Chrome WebDriver configurado corretamente.
  - A cotação do dólar é obtida a partir da página de resultados do Google. É possível que a estrutura da página ou a classe CSS do elemento da cotação possam mudar no futuro, o que exigirá uma atualização no código.
- -A cotação do valor do dolar ira vir conforme a sua localização e configurações de localização do seu navegador Chrome
-
+ - A cotação do valor do dolar ira vir conforme a sua localização e configurações de localização do seu navegador Chrome
+ - Este é um projeto de laboratório com objetivo de aprimorar minhas habilidades, então pode não haver atualizações
 #
 
 ### Description in English:
@@ -74,3 +74,4 @@
  - This code uses Selenium to automate the Chrome browser. Make sure you have the Chrome WebDriver properly configured.
  - The dollar exchange rate is obtained from the Google search results page. It is possible that the page structure or the CSS class of the exchange rate element may change in the future, requiring an update to the code.
  - The dollar value will vary according to your location and Chrome browser settings.
+ - This is a lab project aimed at honing my skills, so there may be no updates
